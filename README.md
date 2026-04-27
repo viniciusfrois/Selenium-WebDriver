@@ -32,4 +32,4 @@ py -m pytest
 
 ## Integração CI
 
-Os testes são executados automaticamente via GitHub Actions a cada push.
+Os testes são executados automaticamente via GitHub Actions a cada push..
